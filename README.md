@@ -2,7 +2,7 @@
 A method to install SXOS and run games without problems
 
 Instriucciones:
--Descargar este repositorio
+-Descargar este repositorio /n
 -Ir a https://darthsternie.net/switch-firmwares/ y descargar el Firmware de la version de switch en la que este tu sysnand
 -Abrir la carpeta 1
 -Ejecutar GetLicense.py
