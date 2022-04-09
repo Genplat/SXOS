@@ -5,7 +5,7 @@ Instriucciones:
 -Descargar este repositorio
 
 -Ir a https://darthsternie.net/switch-firmwares/ y descargar el Firmware de la version de switch en la que este tu sysnand</p>
--Abrir la carpeta 1</p>
+-Abrir la carpeta primero</p>
 -Ejecutar GetLicense.py</p>
 -Clonar el boot.dat y el license.dat a la SD de la switch</p>
 -Copiar los datos de switch a la carpeta switch de la SD de la switch</p>
