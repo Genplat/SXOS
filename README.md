@@ -19,7 +19,7 @@ Instriucciones:</p>
 -Darle a reboot</p>
 -Darle a Shut down</p>
 -Abrir TegraRCM desde la carpeta Tegra y seleccionar SXOS</p>
--Mientras sale el logo de SX darle a volumen + para entrar al menu</p>
+-Mientras sale el logo de SX darle a volumen + y - a la vez para entrar al menu</p>
 -Darle a Options</p>
 -Seleccionar EmuNAND</p>
 -Darle a Create EmuNAND</p>
@@ -36,7 +36,7 @@ Instriucciones:</p>
 -Darle a reboot</p>
 -Darle a Shut down</p>
 -Abrir TegraRCM desde la carpeta Tegra y seleccionar SXOS</p>
--Mientras sale el logo de SX darle a volumen + para entrar al menu</p>
+-Mientras sale el logo de SX darle a volumen + y - a la vez para entrar al menu</p>
 -Si no esta activado ya activa la emuNAND</p>
 </p>
 </p>
