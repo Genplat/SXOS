@@ -1,6 +1,9 @@
 # SXOS
 A method to install SXOS and run games without problems</p>
 
+For Future Updates Use https://github.com/XmatikNX/SXOS</p>
+Para Nuevas Versiones Usa https://github.com/XmatikNX/SXOS</p>
+
 Instriucciones:</p>
 -Descargar este repositorio desde releases</p>
 -Ir a https://darthsternie.net/switch-firmwares/ y descargar el Firmware de la version de switch en la que este tu sysnand</p>
