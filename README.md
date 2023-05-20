@@ -3,8 +3,9 @@ A method to install SXOS and run games without problems</p>
 
 ### **PROYECTO REALIZADO EN MI TIEMPO LÍBRE COMO UN RETO.**
 
-## For Future Updates Use https://github.com/XmatikNX/SXOS</p>
-## Para Nuevas Versiones Usa https://github.com/XmatikNX/SXOS</p>
+## NO USAR EL REPO https://github.com/XmatikNX/SXOS</p>
+## EL REPO https://github.com/XmatikNX/SXOS YA **NO** FUNCIONA</p>
+### Posiblemente este proyecto ya no tenga mas updates, pero si [donas en Ko-Fi](https://ko-fi.com/Elite6_27) con el #SXOS me ayudarías a sacar nuevas versiones.
 
 Instriucciones:</p>
 -Descargar este repositorio desde releases</p>
