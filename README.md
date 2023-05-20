@@ -1,6 +1,8 @@
 # SXOS
 A method to install SXOS and run games without problems</p>
 
+### **PROYECTO REALIZADO EN MI TIEMPO LÍBRE COMO UN RETO.**
+
 ## For Future Updates Use https://github.com/XmatikNX/SXOS</p>
 ## Para Nuevas Versiones Usa https://github.com/XmatikNX/SXOS</p>
 
